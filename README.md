@@ -1,9 +1,22 @@
-# 🤖 Projet DL : Building MobileNet V1 from scratch 📇
+# 🤖 Project DL Avancé  : Building a pipeline for UUCF part of Outfit Oracle
 
 Contributor : WONG Hoe Ziet, ZHU Xingyu & Samir CHAFI RAHAMATTOULLA (TSP MAIA 2025 🐝)
 
 # 🔡 Dataset
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv 
+
+# 🗺️ Directory of files
+
+mini-projet/
+├── airflow_dags/
+│   └── pipeline_ml_dag.py
+├── data/
+├── src/
+│   ├── data_ingestion.py
+│   ├── preprocessing.py
+│   ├── train_knn.py
+│   └── validation.py
+└── models/
 
 # 🎯 Objective 
 Create a pipeline for the UUCF part of our Oracle Outfit Application using Airflow & MLFlow
