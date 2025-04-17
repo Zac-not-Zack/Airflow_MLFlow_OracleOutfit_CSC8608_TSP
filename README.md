@@ -8,14 +8,23 @@ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 # 🗺️ Directory of files
 
 mini-projet/
+
 ├── airflow_dags/
+
 │   └── pipeline_ml_dag.py
+
 ├── data/
+
 ├── src/
+
 │   ├── data_ingestion.py
+
 │   ├── preprocessing.py
+
 │   ├── train_knn.py
+
 │   └── validation.py
+
 └── models/
 
 # 🎯 Objective 
