@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3158fd8339ca46f2bb6db0e55b0cbd8e/artifacts
+end_time: 1744504037142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3158fd8339ca46f2bb6db0e55b0cbd8e
+run_name: amusing-tern-957
+run_uuid: 3158fd8339ca46f2bb6db0e55b0cbd8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744501363386
+status: 3
+tags: []
+user_id: zac

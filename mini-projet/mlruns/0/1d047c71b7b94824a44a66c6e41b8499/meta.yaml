@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d047c71b7b94824a44a66c6e41b8499/artifacts
+end_time: 1744500116833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d047c71b7b94824a44a66c6e41b8499
+run_name: gaudy-dove-755
+run_uuid: 1d047c71b7b94824a44a66c6e41b8499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744500115442
+status: 3
+tags: []
+user_id: zac

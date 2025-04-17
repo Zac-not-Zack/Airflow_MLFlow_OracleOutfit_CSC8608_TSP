@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6b22e994cd84b7694518a0ca5279f95/artifacts
+end_time: 1744497275263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6b22e994cd84b7694518a0ca5279f95
+run_name: masked-moose-576
+run_uuid: b6b22e994cd84b7694518a0ca5279f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744497274964
+status: 3
+tags: []
+user_id: zac

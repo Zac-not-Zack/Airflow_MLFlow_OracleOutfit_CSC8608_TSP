@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7c6409b20a2e4e2582d3a30ae90cb21e/artifacts
+end_time: 1744500053606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c6409b20a2e4e2582d3a30ae90cb21e
+run_name: trusting-foal-619
+run_uuid: 7c6409b20a2e4e2582d3a30ae90cb21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744497582025
+status: 3
+tags: []
+user_id: zac
